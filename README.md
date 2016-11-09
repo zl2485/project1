@@ -94,5 +94,3 @@ and choose the appropriate "student" category as the _account type_
 
 There is a $50 charge to open a CS account. 
 Please refer to CRF's homepage for details on infrastructure and policies of the CS department.
-
-Test test
